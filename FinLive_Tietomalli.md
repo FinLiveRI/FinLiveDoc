@@ -183,7 +183,7 @@ Pääluvuissa 1-24 oleviin taulukoihin liittyy seuraavia lukuohjeita:
 
 # Relaatiokaavio
 
-![](media/image1.emf)
+![Tietomallin relaatiokaavio](FinLive_relaatiokaavio.png)
 
 # Eläimen perustiedot (Animal)
 
